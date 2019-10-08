@@ -9,8 +9,8 @@ Feedstock license: BSD 3-Clause
 
 Summary: Aliyun Python SDK is the official software development kit.
 
-Aliyun Python SDK is the official software development kit.
-It makes things easy to integrate your Python application, library,
+Aliyun Python SDK is the official software development kit. It
+makes things easy to integrate your Python application, library,
 or script with Aliyun services.
 
 
