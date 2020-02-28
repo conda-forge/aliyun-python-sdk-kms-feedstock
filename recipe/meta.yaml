@@ -1,5 +1,5 @@
 {% set name = "aliyun-python-sdk-kms" %}
-{% set version = "2.9.0" %}
+{% set version = "2.10.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,12 +7,12 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5d7862644eda66c5f2d017767573eb4b6656c3c3c8448536e6886108033a1bdd
+  sha256: 9c1fc509bfc6ebb73b39a70392343b4144b13be29fc1cb1e880b6a37e6d60af2
 
 build:
   noarch: python
   number: 0
-  script: "{{ PYTHON }} -m pip install . -vv"
+  script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
@@ -30,7 +30,7 @@ about:
   home: http://develop.aliyun.com/sdk/python
   license: Apache-2.0
   license_file: LICENSE
-  summary: 'Aliyun Python SDK is the official software development kit.'
+  summary: Aliyun Python SDK is the official software development kit.
 
   description: |
     Aliyun Python SDK is the official software development kit. It
