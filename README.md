@@ -5,7 +5,7 @@ Home: http://develop.aliyun.com/sdk/python
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Aliyun Python SDK is the official software development kit.
 
