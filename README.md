@@ -119,7 +119,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@MaxRis](https://github.com/MaxRis/)
 * [@efiop](https://github.com/efiop/)
 * [@shcheklein](https://github.com/shcheklein/)
 
