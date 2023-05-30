@@ -1,11 +1,11 @@
-About aliyun-python-sdk-kms
-===========================
+About aliyun-python-sdk-kms-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aliyun-python-sdk-kms-feedstock/blob/main/LICENSE.txt)
 
 Home: http://develop.aliyun.com/sdk/python
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aliyun-python-sdk-kms-feedstock/blob/main/LICENSE.txt)
 
 Summary: Aliyun Python SDK is the official software development kit.
 
