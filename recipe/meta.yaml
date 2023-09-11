@@ -1,5 +1,5 @@
 {% set name = "aliyun-python-sdk-kms" %}
-{% set version = "2.16.1" %}
+{% set version = "2.16.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: a372737715682014bace68bd40fe83332f4fd925009a3eb110d41bc66f270e7a
+  sha256: f87234a8b64d457ca2338f87650db18a3ce7f7dbc9bfef71efe8f2894aded3d6
 
 build:
   noarch: python
